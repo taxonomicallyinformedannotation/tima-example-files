@@ -1,2 +1,2 @@
-# demo-files
-A simple repository for demo files
+# tima-example-files
+A simple repository for tima example files

@@ -98,4 +98,4 @@ feature_source	feature_target	label	feature_spectrum_entropy	feature_spectrum_pe
 165	269	[M+C2H3N+Na]+ _ [M+K]+			
 165	294	[M+C2H3N+Na]+ _ [M+H2O+H]+			
 165	5358	[M+C2H3N+Na]+ _ [M+H2O+H]+			
-172	14	[M+H2O+H]+ _ [M+H4N]+	
+172	14	[M+H2O+H]+ _ [M+H4N]+			

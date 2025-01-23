@@ -1,4 +1,4 @@
-row ID,row m/z,row retention time,row ion mobility,row ion mobility unit,row CCS,correlation group ID,annotation network number,best ion,auto MS2 verify,identified by n=,partners,neutral M mass,191105_AR_Panax_Pos.mzML.gz Peak area,191105_AR_Ginkgo_Pos.mzML.gz Peak area,191105_AR_Arnica_Pos.mzML.gz Peak area,191105_AR_Cinchona_Pos.mzML.gz Peak area,191105_AR_Salvia_Pos.mzML.gz Peak area,
+row ID,row m/z,row retention time,row ion mobility,row ion mobility unit,row CCS,correlation group ID,annotation network number,best ion,auto MS2 verify,identified by n=,partners,neutral M mass,191105_AR_Panax_Pos.mzML Peak area,191105_AR_Ginkgo_Pos.mzML Peak area,191105_AR_Arnica_Pos.mzML Peak area,191105_AR_Cinchona_Pos.mzML Peak area,191105_AR_Salvia_Pos.mzML Peak area,
 14,160.02766093545307,0.16336419,,,,295,,,,,,,10106.329,144440.66,2875.3462,7258.2534,37809.42,
 1804,160.03439827736892,0.776384,,,,389,,,,,,,12691.924,42729.82,28089.883,34615.21,370981.97,
 914,160.0344104191159,0.5971811,,,,,,,,,,,67761.71,42729.82,232254.44,31361.682,23192.695,

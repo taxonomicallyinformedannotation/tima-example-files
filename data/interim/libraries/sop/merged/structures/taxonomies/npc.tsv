@@ -1,0 +1,101 @@
+structure_smiles_no_stereo	structure_tax_npc_01pat	structure_tax_npc_02sup	structure_tax_npc_03cla
+CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CCC(CCC(C)C1CCC2C3CC=C4CC(OC(C)=O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Cholestane steroids $ Stigmastane steroids
+CCC(CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Stigmastane steroids
+C=C(CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Ergostane steroids
+C=C(C)C(C)(C)CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids $ Ergostane steroids
+C=C(C)C(CC)CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids $ Stigmastane steroids
+C=C(CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)C(C)(C)C	Terpenoids	Steroids	Ergostane steroids
+CCC(CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)=C(C)C	Terpenoids	Steroids	Cholestane steroids
+C=C(C)C(C=CC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)CC	Terpenoids	Steroids	Cholestane steroids $ Stigmastane steroids
+CCC(C=CC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Cholestane steroids $ Stigmastane steroids
+CC(C)C(C)CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids $ Ergostane steroids
+CC=C(CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Stigmastane steroids
+CC(C)=CCCC(C)C1CCC2(C)C3CCC4C(C)(C)C(O)CCC45CC35CCC12C	Terpenoids	Triterpenoids	Cycloartane triterpenoids $ Lanostane, Tirucallane and Euphane triterpenoids
+CCCCCCCCC=CCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Unsaturated fatty acids
+CCC=CCC=CCC=CCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Unsaturated fatty acids
+CCCCCC=CCC=CCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Unsaturated fatty acids
+CCCCCCCCCCCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Unsaturated fatty acids
+CCCCCCCCCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Branched fatty acids $ Unsaturated fatty acids
+C=C(CCC(C)C1CCC2(C)C3CCC4C(C)C(O)CCC45CC35CCC12C)C(C)C	Terpenoids	Triterpenoids $ Steroids	Cycloartane triterpenoids $ Ergostane steroids
+CC(C)C1CCC2(C)CCC3(C)C4CC=C5C(CCC(O)C5(C)C)C4(C)CCC3(C)C12	Terpenoids	Triterpenoids	Adianane triterpenoids $ Lupane triterpenoids
+CC(C)C1CCC2=C3CCC4C5(C)CCC(=O)C(C)(C)C5CCC4(C)C3(C)CCC21C	Terpenoids	Triterpenoids	Hopane and Moretane triterpenoids $ Neohopane triterpenoids
+C=C(C)C1CCC2(C)C1CCC1(C)C2CCC2C3(C)CCC(=O)C(C)(C)C3CCC21C	Terpenoids	Triterpenoids	Hopane and Moretane triterpenoids $ Lupane triterpenoids
+CC1(C)CCC2(C)CC=C3C(C)(CCC4C3(C)CCC3C(C)(C)C(=O)CCC34C)C2C1	Terpenoids	Triterpenoids	Taraxerane triterpenoids
+CC(C)C1=C2CCC3(C)C(CCC4C5(C)CCC(=O)C(C)(C)C5CCC43C)C2(C)CC1	Terpenoids	Triterpenoids	Hopane and Moretane triterpenoids
+CC(C)C1CCC2C1(C)CCC1(C)C3CC=C4C(CCC(=O)C4(C)C)C3(C)CCC21C	Terpenoids	Triterpenoids	Adianane triterpenoids
+C=C(C)C1CCC2(C)C1CCC1(C)C2CCC2C3(C)CCC(O)C(C)(C)C3CCC21C	Terpenoids	Triterpenoids	Hopane and Moretane triterpenoids
+CC(C)CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC(C)CC=CC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC(C)C=CC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC(C)C=CC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC=C(CCC(C)C1CCC2C3C=CC4=CC(=O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Stigmastane steroids
+CC(C)CC=CC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC(C)=CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC(C)CC=CC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC=C(CCC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Cholestane steroids $ Stigmastane steroids
+CC(C)=CCCC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CCC(CCC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Stigmastane steroids
+CC(C)CCCC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC(C)CCCC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CCC(C=CC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Cholestane steroids $ Stigmastane steroids
+C=C(CCC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Cholestane steroids
+CCC(C)C=CC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC(C)C(C)C=CC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CC(C)C=CC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CCC(C)C=CC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids $ Stigmastane steroids
+CCC(CCC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Cholestane steroids $ Stigmastane steroids
+CC(C)C(C)CCC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids $ Ergostane steroids
+CC(C)C(C)C=CC(C)C1CCC2C3C=CC4=CC(=O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids $ Ergostane steroids
+CC(C)C(C)C=CC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids $ Ergostane steroids
+CC=C(CCC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Stigmastane steroids
+C=C(CCC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Ergostane steroids
+CC(C)C(C)C=CC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids $ Ergostane steroids
+CC(C)C(C)CCC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids $ Ergostane steroids
+CCC(C=CC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C)C(C)C	Terpenoids	Steroids	Stigmastane steroids
+CCC(C=CC(C)C1CCC2C3=CCC4CC(O)CCC4(C)C3CCC21C)C(C)C	Terpenoids	Steroids	Stigmastane steroids
+C=C(CCC(C)C1CCC2(C)C3CCC4C(C)(C)C(O)CCC45CC35CCC12C)C(C)C	Terpenoids	Triterpenoids	Cycloartane triterpenoids
+CC(=O)OC1CCC2(C)C(=CCC3C2CCC2(C)C(C(C)CCCC(C)C)CCC32)C1	Terpenoids	Steroids	Cholestane steroids
+CCCCCCCCCC=CCCC=CC(O)C(CO)NC(=O)CCCCCCCCCCCCCCCCC	Fatty acids	Sphingolipids	Ceramides
+CCCCCCCCCCCCCC=CCC(CO)NC(=O)CCCCCCCCCCCCCCCCC	Fatty acids	Sphingolipids	Ceramides
+CC(C)CCCC(C)C1CCC2C3C(O)C=C4CC(O)CCC4(C)C3CCC12C	Terpenoids	Steroids	Cholestane steroids
+CCCCCCCCCCCCCCCCCC(=O)OCCCCCCCCCCCCCCCC	Fatty acids	Fatty esters	Wax monoesters
+CCCCCCCCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCCCCCC	Fatty acids	Fatty esters	Wax monoesters
+CCCCCCCCCCCCCC=CCCC=CC(O)C(CO)NC(=O)CCCCCCCCCCCCCCC	Fatty acids	Sphingolipids	Ceramides
+CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C	Terpenoids	Triterpenoids	Acyclic triterpenoids
+CCCCCCC=CCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Unsaturated fatty acids
+CCCCCCCCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Branched fatty acids $ Unsaturated fatty acids
+CCCCCCCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Branched fatty acids $ Unsaturated fatty acids
+NC(=O)CCC(N)C(=O)O	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+CSCCC(N)C(=O)O	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+O=C(O)c1ccc(O)cc1	Shikimates and Phenylpropanoids	Phenolic acids (C6-C1)	Simple phenolic acids
+O=C(O)c1ccccc1O	Shikimates and Phenylpropanoids	Phenolic acids (C6-C1)	Simple phenolic acids
+N=c1nc(O)c2nc[nH]c2[nH]1	Alkaloids	Pseudoalkaloids	Purine alkaloids
+O=C(O)CC(C(=O)O)C(O)C(=O)O	Fatty acids	Fatty Acids and Conjugates	Dicarboxylic acids
+CCCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Branched fatty acids $ Unsaturated fatty acids
+NCCCCC(N)C(=O)O	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+CCCCCCCCCCCCCCCCCC(=O)OCCCC	Fatty acids	Fatty esters	Wax monoesters
+CCC(O)C(=O)O	Fatty acids	Fatty Acids and Conjugates	Hydroxy fatty acids
+O=C(O)C(O)C(O)CO	Fatty acids $ Carbohydrates	Fatty Acids and Conjugates $ Saccharides	Hydroxy fatty acids $ Monosaccharides
+O=CC(O)C(O)C(O)C(O)CO	Carbohydrates	Saccharides	Monosaccharides
+O=C(COP(=O)(O)O)C(O)C(O)C(O)CO	Carbohydrates	Saccharides	Monosaccharides
+O=C(O)C1OC(O)C(O)C(O)C1O	Carbohydrates	Saccharides	Monosaccharides
+NCC(=O)O	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+O=C(O)C1CCCN1	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids $ Dipeptides
+O=C(CO)C(O)C(O)C(O)CO	Carbohydrates	Saccharides	Monosaccharides
+Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O	Carbohydrates	Nucleosides	Purine nucleos(t)ides
+O=P(O)(O)OC1OC(CO)C(O)C(O)C1O	Carbohydrates	Saccharides	Monosaccharides
+CCCCCCCCCCC=CCCCCCCCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Unsaturated fatty acids
+NCCOP(=O)(O)O	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+CCC(C)C(N)C(=O)O	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+CC(=O)NO	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+CC(C)C(N)C(=O)O	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+O=C(O)C=CC(=O)O	Fatty acids	Fatty Acids and Conjugates	Dicarboxylic acids
+OCC1OC(O)C(O)C(O)C1O	Carbohydrates $ Shikimates and Phenylpropanoids	Saccharides $ Flavonoids	Disaccharides $ Flavones $ Monosaccharides $ Polysaccharides
+O=C1CCC(C(=O)O)N1	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+CC(O)C(=O)O	Fatty acids	Fatty Acids and Conjugates	Hydroxy fatty acids
+NC(N)=O	Alkaloids	notClassified	notClassified
+NC(Cc1ccccc1)C(=O)O	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+O=C(O)CCC(=O)O	Fatty acids	Fatty Acids and Conjugates	Dicarboxylic acids
+NC(CO)C(=O)O	Amino acids and Peptides $ Shikimates and Phenylpropanoids	Small peptides	Aminoacids
+O=C(O)CC(O)C(=O)O	Fatty acids	Fatty Acids and Conjugates	Dicarboxylic acids $ Hydroxy fatty acids

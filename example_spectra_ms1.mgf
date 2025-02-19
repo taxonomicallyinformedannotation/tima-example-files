@@ -1,0 +1,9 @@
+BEGIN IONS
+TITLE=1
+msLevel=1
+scanIndex=1
+PEPMASS=666.6666
+CHARGE=1-
+ 
+END IONS
+
